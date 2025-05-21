@@ -7,17 +7,18 @@ analysis techniques and presentation of results to a client.
 
 # The data
 
-- You will use the King County Housing Data: This dataset contains information about home sales in King County (USA).
-- You will find the data in the eda schema of our database. You can access it via DBeaver. Please save the csv file in the data folder where it will not be uploaded to github.
-- Please explore the dataset in DBeaver and come up with a Join for the 2 tables.
-- The description of the column names can be found in the `column_names.md` file.
+- You will use the King County Housing Data: This dataset contains information about home sales in King County (USA). <span style="color:green"> DONE!</span>
+
+- You will find the data in the eda schema of our database. You can access it via DBeaver. Please save the csv file in the data folder where it will not be uploaded to github. <span style="color:green"> DONE!</span>
+- Please explore the dataset in DBeaver and come up with a Join for the 2 tables. <span style="color:green"> DONE!</span>
+- The description of the column names can be found in the `column_names.md` file.<span style="color:green"> DONE!</span>
 - The column names may NOT be clear at times:
 
   _In the real world we will run into similar challenges. We would then go ask our business clients for more information. In this case, let us assume our business client who would give us information, left the company. Meaning we would have to identify and look up what each column names might actually mean. (google is your friend ;) )_
 
 # The Tasks
 
-1. Create a new repo using this [template](hhttps://github.com/neuefische/ds-eda-project-template).
+1. Create a new repo using this [template](hhttps://github.com/neuefische/ds-eda-project-template). <span style="color:green"> DONE!</span>
 
 2. Through EDA/statistical analysis above please come up with **AT LEAST 3 insights** regarding the overall data. One should be geographical.
 
@@ -27,7 +28,7 @@ _Note, you can take either the perspective of a buyer or a seller. Choose a clie
 
 # The Deliverables
 
-0. **New repository** from [template](https://github.com/neuefische/ds-eda-project-template)
+0. **New repository** from [template](https://github.com/neuefische/ds-eda-project-template) <span style="color:green"> DONE!</span>
 1. A **well documented Jupyter Notebook** (see [here](https://www.kaggle.com/ekami66/detailed-exploratory-data-analysis-with-python) for an example) containing the code you've written for this project and comments explaining it. This work will need to be pushed to your GitHub repository in order to submit your project. Do not push all the analysis... just the analysis that is relevant! You can start with the [starter notebook](EDA.ipynb).
 2. An **updated and organized README.md** file in the GitHub repository that describes the contents of the repository. This file should be the source of information for navigating through the repository.
 3. A **short Keynote/PowerPoint/Google Slides/Jupyter slides presentation** giving a **high-level overview** of your methodology and recommendations for **non-technical clients**. The duration of the presentation should be **10 minutes**, then the discussion will continue for 5 minutes. Also put your slides (delivered as a PDF export) on Github to get a well-rounded project. **Do not present using your jupyter notebook!**
@@ -49,7 +50,7 @@ _Note: As these clients are made up (any resemblance to present people is absolu
 | Jennifer Montgomery | Buyer       | High budget, wants to show off, timing within a month, waterfront, renovated, high grades, resell within 1 year                                                                                  |
 | Bonnie Williams     | Seller      | Has several houses, some in bad neighborhoods, willing to evict people, timing?, big returns, open for renovations                                                              |
 | William Rodriguez   | Buyer       | 2 people, country (best timing & non-renovated) & city house (fast & central location), wants two houses                                                                        |
-| Erin Robinson       | Buyer       | Invest in poor neighborhood, buying & selling, costs back + little profit, socially responsible                                                                                 |
+|<span style="color:green"> **Erin Robinson!!!**    | <span style="color:darkred"> **Buyer** </span> | <span style="color:green"> **Invest in poor neighborhood, buying & selling, costs back + little profit, socially responsible** </span>                                                                              |
 | Jacob Phillips      | Buyer       | Unlimited Budget, 4+ bathrooms or smaller house nearby, big lot (tennis court & pool), golf, historic, no waterfront                                                            |
 | Zachary Brooks      | Seller      | Invests in historical houses, best neighborhoods, high profits, best timing within a year, should renovate?                                                                     |
 | Timothy Stevens     | Seller      | Owns expensive houses in the center, needs to get rid, best timing within a year, open for renovation when profits rise                                                         |
